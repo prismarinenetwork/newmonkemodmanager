@@ -11,3 +11,9 @@ virustotal:https://www.virustotal.com/gui/file/ff5c4049c0e75a90d7d594e3fcbbe2074
 
 
 I have also personally checked the code in DnSpy it is not a rat or trojan
+
+
+
+
+gorilla tag folder location:
+C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag
